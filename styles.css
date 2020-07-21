@@ -1,0 +1,235 @@
+﻿h1
+{
+	color:orange;
+	text-align:center;
+	font-size:40px;
+	
+}
+#plane
+{
+	height:40px;
+}
+body
+{
+	background:url("img/bg.jpg");
+	text-align: center;
+}
+
+.mypic
+{
+	height:300px;
+	border:5px double white;
+	margin:80px 10px 10px 10px;
+}
+.hidden
+{
+	
+	position: fixed;
+	top:0px;
+	bottom:0px;
+	margin: auto;
+	opacity: 0;
+	z-index: -1;
+}
+.hidden:target
+{
+	opacity: 1;
+	z-index: 1;
+	transition: opacity 3s;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+.youpic
+{
+	height:500px;
+ 	margin-left: auto;
+  	margin-right: auto;
+	width: 50%;
+}
+.axe
+{
+	font-size:100px;
+	background-color: white;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+h2
+{
+	color: white;
+}
+.mypic2
+{
+	height:300px;
+	border:5px double white;
+	margin:80px 10px 10px 10px;
+}
+.hidden
+{
+	
+	position: fixed;
+	top:0px;
+	bottom:0px;
+	margin: auto;
+	background: black;
+	opacity: 0;
+	z-index: -1;
+}
+.hidden:target
+{
+	opacity: 0.8;
+	z-index: 1;
+	transition: opacity 3s;
+}
+.youpic2
+{
+	height:500px;
+ 	margin-left: auto;
+  	margin-right: auto;
+	width: 50%;
+	z-index: -1;	
+
+}
+.axe
+{
+	font-size:30px;
+	background-color: white;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+h2
+{
+	color: white;
+}
+.mypic3
+{
+	height:300px;
+	border:5px double white;
+	margin:80px 10px 10px 10px;
+}
+.hidden
+{
+	
+	position: fixed;
+	top:0px;
+	bottom:0px;
+	margin: auto;
+	background: black;
+	opacity: 0;
+	z-index: -1;
+}
+.hidden:target
+{
+	opacity: 0.8;
+	z-index: 1;
+	transition: opacity 3s;
+}
+.youpic3
+{
+	height:500px;
+ 	margin-left: auto;
+  	margin-right: auto;
+	width: 50%;
+	z-index: -1;	
+
+}
+.axe
+{
+	font-size:30px;
+	background-color: white;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+h2
+{
+	color: white;
+}
+.mypic4
+{
+	height:300px;
+	border:5px double white;
+	margin:80px 10px 10px 10px;
+}
+.hidden
+{
+	
+	position: fixed;
+	top:0px;
+	bottom:0px;
+	margin: auto;
+	background: black;
+	opacity: 0;
+	z-index: -1;
+}
+.hidden:target
+{
+	opacity: 0.8;
+	z-index: 1;
+	transition: opacity 3s;
+}
+.youpic4
+{
+	height:500px;
+ 	margin-left: auto;
+  	margin-right: auto;
+	width: 50%;
+	z-index: -1;	
+
+}
+.axe
+{
+	font-size:30px;
+	background-color: white;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+h2
+{
+	color: white;
+}
+.mypic5
+{
+	height:300px;
+	border:5px double white;
+	margin:80px 10px 10px 10px;
+}
+.hidden
+{
+	
+	position: fixed;
+	top:0px;
+	bottom:0px;
+	margin: auto;
+	background: black;
+	opacity: 0;
+	z-index: -1;
+}
+.hidden:target
+{
+	opacity: 0.8;
+	z-index: 1;
+	transition: opacity 3s;
+}
+.youpic5
+{
+	height:500px;
+ 	margin-left: auto;
+  	margin-right: auto;
+	width: 50%;
+	z-index: -1;	
+
+}
+.axe
+{
+	font-size:30px;
+	background-color: white;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+h2
+{
+	color: white;
+}
